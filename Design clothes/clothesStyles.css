@@ -1,0 +1,158 @@
+body {
+    background-color: #461B7E;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+h1 {
+    margin: 0;
+    font-size: 350%;
+    text-align: center;
+    padding: 50px 0;
+    margin-bottom: 60px;
+    border-bottom: 5px solid white;
+    box-shadow: 0 0 25px white;
+    background-color: #2E1A47;
+}
+
+h1 a{
+    text-shadow: 1px 1px 20px white, 0 0 10px #571B7E;
+    text-decoration: none;  
+}
+
+.aboutme {
+    font-size: 150%;
+    margin: 150px 5%;
+    border: 6px solid white;
+    width: 55%;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 5px 25px white;
+    background-color: #2E1A47;
+}
+
+.designer_ava{
+    border: 5px solid white;
+    margin: 0 5% 100px auto;
+    padding: 0;
+    border-radius: 50%;
+    float: right;
+}
+
+h2 {
+    text-shadow: 1px 1px 15px white, 0 0 10px #571B7E, 0 0 5px #6A0DAD;
+    width: 40%;
+    margin: 0 30% 40px 30%;
+    border-radius: 50px;
+    font-size: 200%;
+    text-align: center;
+    padding: 50px 0;
+    border: 5px solid white;
+    box-shadow: 0 0 25px white;
+    background-color: #2E1A47;
+}
+
+.gallery {
+    width: 95%;
+    margin: 0 2% 150px 5%;
+    overflow: auto;
+    padding: 0;
+}
+
+.gallery img{
+    border: 3px solid white;
+    border-radius: 8px;
+    margin: 10px;
+    height: 350px;
+    width: 22%;
+    float: left;
+    padding: 0;
+}
+
+
+.takecare {
+    font-size: 150%;
+    margin: 10px 9% 150px 9%;
+    border: 6px solid white;
+    width: 80%;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 5px 25px white;
+    background-color: #2E1A47;
+}
+
+.takecare li{
+    margin: 10px 0;
+}
+
+
+.pricelist{
+    margin: 50px 0;
+}
+
+.price {
+    border-radius: 20px;
+    margin: 50px 25%;
+    height: 250px;
+    background-color: #2E1A47;
+    width: 50%;
+    overflow: auto;
+    padding: 0;
+}
+
+.price h3{
+    width: 70%;
+    padding: 10px 0;
+    margin: 15px 0 10px 30%;
+    font-size: 150%;
+    border-bottom: 2px solid white;
+}
+
+.number {
+    font-size: 150%;
+    margin: 8% 0 0 30%;
+    padding: 2px 0;
+    width: 70%;
+    text-align: center;
+    background-color: #A74AC7;
+}
+
+.price img{
+    background-color: white;
+    height: 70%;
+    padding: 0;
+    margin: 3% 4% 3% 5%;
+    float: left;
+    border-radius: 50%;
+}
+
+footer {
+    border-top: 5px solid white;
+    box-shadow: 0 0 25px white;
+    height: auto;
+    background-color: #2E1A47;
+    overflow: auto;
+    padding: 0;
+    margin: 50px 0 0 0;
+}
+
+footer li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul{
+    margin: 0;
+    padding: 0;
+
+}
+
+footer img{
+    width: 5%;
+    float: left;
+    margin: 1% 10%
+}
+
